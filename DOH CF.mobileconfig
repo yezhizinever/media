@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>DNSSettings</key>
+				<dict>
+					<key>DNSProtocol</key>
+					<string>HTTPS</string>
+					<key>ServerAddresses</key>
+					<array>
+						<string>1.1.1.1</string>
+						<string>1.0.0.1</string>
+					</array>
+					<key>ServerURL</key>
+					<string>https://cloudflare-dns.com/dns-query</string>
+				</dict>
+				<key>PayloadDisplayName</key>
+				<string>DNS Settings #1</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.dnsSettings.managed.af7d650a-f28a-4c6c-911e-0cdf9b547e32</string>
+				<key>PayloadType</key>
+				<string>com.apple.dnsSettings.managed</string>
+				<key>PayloadUUID</key>
+				<string>19cc275f-892d-4d57-9e9c-fb22b463cbc3</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+		<key>PayloadDisplayName</key>
+		<string>DOH CF</string>
+		<key>PayloadIdentifier</key>
+		<string>DESKTOP-L5QBGGJ.7b4a0f8a-fc1c-43f5-aa7d-0d6bcb3d0913</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>fb8b81c9-307d-4463-9e1c-a620f67aae8f</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>TargetDeviceType</key>
+		<integer>1</integer>
+	</dict>
+</plist>
